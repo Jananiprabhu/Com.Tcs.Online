@@ -1,0 +1,5 @@
+Com\Tcs\Online\Pages\InboxPage.class
+Com\Tcs\Online\Base\Testbase.class
+Com\Tcs\Online\Utils\Testutil.class
+Com\Tcs\Online\Pages\LoginPage.class
+Com\Tcs\Online\Pages\SignupPage.class
